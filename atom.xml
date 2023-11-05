@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://zyinjoey.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://zyinjoey.github.io/"/>
+  <updated>2023-10-30T04:02:32.156Z</updated>
+  <id>http://zyinjoey.github.io/</id>
+  
+  <author>
+    <name>zy joey</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zy-first-blog</title>
+    <link href="http://zyinjoey.github.io/2023/10/29/Typora/Typora%20basic%20use/"/>
+    <id>http://zyinjoey.github.io/2023/10/29/Typora/Typora%20basic%20use/</id>
+    <published>2023-10-29T11:38:09.000Z</published>
+    <updated>2023-10-30T04:02:32.156Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2023-10-29-–-zyinjoey"><a href="#2023-10-29-–-zyinjoey" class="headerlink" title="2023.10.29                                        – zyinjoey"></a>2023.10.29                                        – zyinjoey</h1><h2 id="Typora-use"><a href="#Typora-use" class="headerlink" title="Typora use"></a>Typora use</h2><blockquote><ol><li><p>ctrl+n  n级标题</p></li><li><p>右尖括号+空格   引用</p></li><li><p>ctrl+shift+] (子列表+tab键)    无序列表</p></li><li><p>ctrl+shift+[  有序列表</p></li><li><p>shift+tab    退出引用</p></li><li><p>[e.g 百度]+(<a href="http://www.baidu/">www.baidu</a>)  生成链接</p></li><li><p><img src="https://cdn.jsdelivr.net/gh/zyinjoey/Picgo@main/imgimgbg-picture.jpg" style="zoom:5%;">尝试设置图片</p></li><li><p>&#x3D;&#x3D; 高亮 &#x3D;&#x3D;  （高亮，与等号中间无空格）</p></li><li><p>ctrl+B     <strong>加粗</strong></p></li><li><p>两个 (飘号 ,tab键上方)     <code> 划重点</code></p></li><li><p>ctrl+t   插入表格</p></li><li><table><thead><tr><th>表格：正是在下</th><th></th></tr></thead></table></li><li><p>三个飘号：代码块  </p></li><li><pre><code class="c++">cout&lt;&lt;&quot;hello world!&quot;</code></pre></li><li><p>右下角：删除拼写检查</p></li><li><p>文件-偏好设置-打开主题文件夹-更改Css文件</p></li></ol></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;2023-10-29-–-zyinjoey&quot;&gt;&lt;a href=&quot;#2023-10-29-–-zyinjoey&quot; class=&quot;headerlink&quot; title=&quot;2023.10.29                                        </summary>
+      
+    
+    
+    
+    <category term="blog1" scheme="http://zyinjoey.github.io/categories/blog1/"/>
+    
+    
+    <category term="Typora" scheme="http://zyinjoey.github.io/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zyinjoey.github.io/2023/10/27/hello-world/"/>
+    <id>http://zyinjoey.github.io/2023/10/27/hello-world/</id>
+    <published>2023-10-27T13:25:09.764Z</published>
+    <updated>2023-10-27T13:18:09.236Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
